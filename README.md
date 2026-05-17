@@ -35,4 +35,5 @@ peshawar-todo-app/
 
 
 Made with ❤️ in Peshawar, Pakistan  
-Meta Full Stack Developer Certificate - Coursera
+MicroSoft Full Stack Developer Certificate Project 
+
